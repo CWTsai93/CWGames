@@ -1,6 +1,6 @@
 /* 方塊時光 — 離線快取
    改版後請把下面的版本號 +1（例如 v2 → v3），使用者下次連上網就會拿到新版。 */
-const VERSION = "fangkuai-v2";
+const VERSION = "fangkuai-v3";
 const SHELL = [
   "./",
   "./index.html",
